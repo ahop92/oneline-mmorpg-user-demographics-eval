@@ -3,7 +3,7 @@
 
 ## Background 
 
-One scripts were developed to evaluate different profit data from a software/gaming company. The raw data was housed by CSV excel files. The goal was to develop a python/jupyter scripts that manipulates the pandas and numpy libraries to evaluate the data and offer a high level analysis.
+One script was developed to evaluate different profit data from a software/gaming company. The raw data was housed by CSV excel files. The goal was to develop a python/jupyter scripts that manipulates the pandas and numpy libraries to evaluate the data and offer a high level analysis.
 
 ### Heroes of Pymoli Code Functionality
 
