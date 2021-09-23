@@ -31,7 +31,7 @@ The following high level analyses were completed with their associated results:
 
 5. Age Demographics: a breakdown of population by age shows that the majority of players for Heros of Pymoli are between the ages of 15 and 24 with the sub-group of 20-24 containing the majority of participants at 44.79% 
 
-![image](https://raw.github.com/ahop92/oneline-mmorpg-user-demographics-eval/main/images/age.PNG)
+![image](https://raw.github.com/ahop92/oneline-mmorpg-user-demographics-eval/main/images/ageanalysis.PNG)
 
 6. Purchasing Analysis by Age: Accordingly, the same population of gamers mentioned in the age demographics section also comprises the majority of revenue made from in game purchases as well (age group 20-24 with $1,114.06 total revenue and 15-19 with $412.89 total revenue)
 
